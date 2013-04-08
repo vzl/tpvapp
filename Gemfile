@@ -18,6 +18,8 @@ group :assets do
 
   gem 'uglifier', '>= 1.0.3'
   gem 'therubyracer','0.10.2', :platform => :ruby
+  
+  gem 'skim'
 end
 
 gem 'jquery-rails'
