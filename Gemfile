@@ -41,3 +41,4 @@ gem "mongoid", ">= 3.0.6"
 
 gem 'execjs'
 
+gem "devise"
